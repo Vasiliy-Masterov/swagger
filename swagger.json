@@ -11,7 +11,7 @@
     },
     "consumes": ["application/json"],
     "produces": ["application/json"],
-    "servers": [{ "url": "http://localhost:3000" },{ "url": "https://github.com/Vasiliy-Masterov/swagger/blob/main/swagger.json" } ],
+    "servers": [{ "url": "http://localhost:3000" }],
     "tags": [
       {
         "name": "Auth",
